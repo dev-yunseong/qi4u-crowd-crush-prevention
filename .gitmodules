@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Blueapple031/qi4u_in_pnu
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yanagizawa-naoto/Quantum_Hackathon_in_Korea
